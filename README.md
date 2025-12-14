@@ -1,14 +1,16 @@
 # Smart Bus Transportation Network – EEX5362(Performance Modelling)
 
-This project models and evaluates the performance of a smart bus transportation system.  
-It focuses on analyzing **bus scheduling efficiency**, **passenger wait time**, and **route optimization** under varying conditions.
+The Smart Bus Performance Model represents an urban bus system where passenger arrivals, bus service, waiting time, throughput, and occupancy are analyzed using performance modeling techniques.
+
 
 ## Contents
-- `Deliverable1.docx` – System details and performance objectives  
-- `smart_bus_sample_dataset.xlsx` – Sample dataset for performance analysis  
+📁 Contents
 
-## Objective
-To identify bottlenecks, improve throughput, and optimize bus frequency using performance modeling techniques.
+- Documents/ – Deliverable 1 (system definition)
+- Smart_Bus_Mini_Project_Dataset.xlsx – Mini project dataset
+- generate_graphs.py – Python script for analysis
+- output_graphs/ – Generated performance graphs
+
 
 ## Author
 Asna Marzook
